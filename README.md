@@ -101,7 +101,7 @@
         <h3>Procreate Brushes</h3>
         <img src="https://techtinkling.com/wp-content/uploads/2022/11/procreate-for-windows-1.jpg" alt="Procreate Brushes" width="300" />
         <p>Enhance your Procreate experience with high-quality brushes designed for various art styles.</p>
-        <a href="https://procreate.com/">Learn More</a>
+        <a href="https://procreate.com/Procreate/Brushes">Learn More</a>
     </div>
     <div class="product">
         <h3>Procreate Courses</h3>
