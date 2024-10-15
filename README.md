@@ -122,7 +122,7 @@
     </section>
 
     <footer>
-        <p>© 2024 Ayesha Fatima | Student Number: 301477527 | Assignment 3 - Procreate</p>
+        <p>© 2024 Ayesha Fatima | Student Number: 301452624 | Assignment 3 - Procreate</p>
         <p>Image and information credits: Apple Store Canada, Best Buy, Savage Interactive.</p>
     </footer>
 </body>
