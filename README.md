@@ -6,6 +6,7 @@
     <title>Procreate - Unleash Your Creativity</title>
     <style>
         body {
+            background-color: #E6E6FA;
             font-family: Arial, sans-serif;
             width: 980px;
             margin: 0 auto;
