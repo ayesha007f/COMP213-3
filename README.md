@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Procreate - Digital Art Tool</title>
+    <title>Procreate - Unleash Your Creativity</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,21 +11,41 @@
             margin: 0 auto;
         }
         header {
-            background-color: #333;
-            color: white;
+            position: relative;
+            height: 300px; /* Adjust the height based on the image size */
+            background: url('procreate-banner.jpg') no-repeat center center;
+            background-size: cover;
             text-align: center;
-            padding: 10px 0;
+            color: white;
+        }
+        header h1 {
+            position: absolute;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 2.5em;
+            font-weight: bold;
         }
         nav {
-            margin: 10px 0;
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
             text-align: center;
         }
         nav a {
             margin: 0 15px;
+            padding: 10px 15px;
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for better visibility */
+            color: white;
             text-decoration: none;
-            color: #0073e6;
+            font-size: 1.2em;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
         }
-        h1, h2 {
+        nav a:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+        h2, h3 {
             text-align: center;
         }
         #about-section, #products-section, #hotspots-section {
@@ -56,7 +76,7 @@
             <a href="#about-section">About</a>
             <a href="#products-section">Products</a>
             <a href="#hotspots-section">Hot Spots</a>
-            <a href="#hatsune-miku">Procreate</a>
+            <a href="#procreate">Procreate</a>
         </nav>
     </header>
 
