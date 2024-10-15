@@ -13,7 +13,7 @@
         header {
             position: relative;
             height: 300px; /* Adjust the height based on the image size */
-            background: url('procreate-banner.jpg') no-repeat center center;
+            background: url('https://css-tricks.com/wp-content/uploads/2020/01/procreate-logo.png') no-repeat center center;
             background-size: cover;
             text-align: center;
             color: white;
