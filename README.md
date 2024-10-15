@@ -93,19 +93,19 @@
         <h2>Products</h2>
         <div class="product">
         <h3>Procreate App</h3>
-        <img src="https://example.com/path-to-procreate-image.jpg" alt="Procreate App" width="300" />
+        <img src="https://designshack.net/wp-content/uploads/procreate-brushes.jpg" width="300" />
         <p>Procreate is a powerful drawing app for iPad that allows artists to create stunning artwork. With a wide range of brushes and tools, it's perfect for both beginners and professionals.</p>
         <a href="Details.html">Learn More</a>
     </div>
     <div class="product">
         <h3>Procreate Brushes</h3>
-        <img src="https://example.com/path-to-brushes-image.jpg" alt="Procreate Brushes" width="300" />
+        <img src="https://techtinkling.com/wp-content/uploads/2022/11/procreate-for-windows-1.jpg" alt="Procreate Brushes" width="300" />
         <p>Enhance your Procreate experience with high-quality brushes designed for various art styles.</p>
         <a href="Details.html">Learn More</a>
     </div>
     <div class="product">
         <h3>Procreate Courses</h3>
-        <img src="https://example.com/path-to-courses-image.jpg" alt="Procreate Courses" width="300" />
+        <img src="https://imag.malavida.com/mvimgbig/download-fs/procreate-19975-3.jpg" alt="Procreate Courses" width="300" />
         <p>Join online courses to master Procreate and unleash your creativity!</p>
         <a href="Details.html">Learn More</a>
         </div>
