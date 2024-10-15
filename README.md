@@ -84,17 +84,30 @@
         <h2>About Us</h2>
         <p>Learn more about Procreate and what it has to offer!</p>
         <h3>Digital Art Tool</h3>
-        <p>Procreate is a powerful, intuitive digital illustration app created by Savage Interactive, designed for artists on the go. It has revolutionized the way artists create on the iPad, offering a robust set of features that rival desktop-grade software.</p>
+        <p>Procreate is a powerful, intuitive digital illustration app created by Savage Interactive, designed for artists on the go. It has revolutionized the way artists create on the iPad, offering a robust set of features that rival desktop-grade software. In 2016, Procreate became one of the top ten best-selling iPad apps on the App Store.</p>
         <h3>Features</h3>
-        <p>Procreate offers a variety of features like brushes, layers, time-lapse recording, and more, making it a versatile tool for beginners and professionals alike.</p>
+        <p>Procreate offers a variety of features like brushes, layers, time-lapse recording, and more, making it a versatile tool for beginners and professionals alike. Within the Procreate application, animation capabilities are present. The process involves sketching individual frames or layers, selectively concealing all but the desired initial frame. Users get more control and range over their stabilization in a brush’s setting or though preference settings under pressure and smoothing for global affects.</p>
     </section>
 
     <section id="products-section">
         <h2>Products</h2>
-        <p>Need your very own Procreate tools? Hover over the image to learn more!</p>
-        <div class="image-container">
-            <div class="product-image">Learn More</div>
-            <div class="product-image">Learn More</div>
+        <div class="product">
+        <h3>Procreate App</h3>
+        <img src="https://example.com/path-to-procreate-image.jpg" alt="Procreate App" width="300" />
+        <p>Procreate is a powerful drawing app for iPad that allows artists to create stunning artwork. With a wide range of brushes and tools, it's perfect for both beginners and professionals.</p>
+        <a href="Details.html">Learn More</a>
+    </div>
+    <div class="product">
+        <h3>Procreate Brushes</h3>
+        <img src="https://example.com/path-to-brushes-image.jpg" alt="Procreate Brushes" width="300" />
+        <p>Enhance your Procreate experience with high-quality brushes designed for various art styles.</p>
+        <a href="Details.html">Learn More</a>
+    </div>
+    <div class="product">
+        <h3>Procreate Courses</h3>
+        <img src="https://example.com/path-to-courses-image.jpg" alt="Procreate Courses" width="300" />
+        <p>Join online courses to master Procreate and unleash your creativity!</p>
+        <a href="Details.html">Learn More</a>
         </div>
     </section>
 
