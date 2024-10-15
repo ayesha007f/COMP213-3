@@ -117,7 +117,7 @@
         <p>Start Your Journey Here:</p>
         <ul>
             <li><a href="https://apps.apple.com/ca/app/procreate-pocket/id916366645">Apple Store Canada</a></li>
-            <li><a href=https://procreate.com/>Best Buy Canada</a></li>
+            <li><a href=https://procreate.com/">Best Buy Canada</a></li>
             <li><a href="https://procreate.com/">Savage Interactive</a></li>
         </ul>
     </section>
