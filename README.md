@@ -95,19 +95,19 @@
         <h3>Procreate App</h3>
         <img src="https://designshack.net/wp-content/uploads/procreate-brushes.jpg" width="300" />
         <p>Procreate is a powerful drawing app for iPad that allows artists to create stunning artwork. With a wide range of brushes and tools, it's perfect for both beginners and professionals.</p>
-        <a href="Details.html">Learn More</a>
+        <a href="https://procreate.com/">Learn More</a>
     </div>
     <div class="product">
         <h3>Procreate Brushes</h3>
         <img src="https://techtinkling.com/wp-content/uploads/2022/11/procreate-for-windows-1.jpg" alt="Procreate Brushes" width="300" />
         <p>Enhance your Procreate experience with high-quality brushes designed for various art styles.</p>
-        <a href="Details.html">Learn More</a>
+        <a href="https://procreate.com/">Learn More</a>
     </div>
     <div class="product">
         <h3>Procreate Courses</h3>
         <img src="https://imag.malavida.com/mvimgbig/download-fs/procreate-19975-3.jpg" alt="Procreate Courses" width="300" />
         <p>Join online courses to master Procreate and unleash your creativity!</p>
-        <a href="Details.html">Learn More</a>
+        <a href="https://join.skillshare.com/Procreate/?coupon=BINGEN30DAYSFREE&utm_source=bing&utm_medium=paidsearch&utm_campaign=SK_Search_Bing_CA_EN_BOF_Non-Brand&utm_term=Procreate%20Courses&matchtype=e&locale=en&utm_source=bing&utm_medium=paidsearch&utm_campaign=SK_Search_Bing_CA_EN_BOF_Non-Brand&utm_term=Procreate%20Courses&matchtype=e&b_adgroup=Procreate&b_adgroupid=1158887128540052&b_adid=72430733373951&b_campaign=SK_Search_Bing_CA_EN_BOF_Non-Brand&b_campaignid=676155433&b_isproduct=&b_productid=&b_term=Procreate%20Courses&b_termid=kwd-72431163818335:loc-32&msclkid=7d0b8aa6366d105cefe8edabe905c792">Learn More</a>
         </div>
     </section>
 
@@ -115,9 +115,9 @@
         <h2>Local Hot Spots</h2>
         <p>Start Your Journey Here:</p>
         <ul>
-            <li><a href="https://www.apple.com/ca/">Apple Store Canada</a></li>
-            <li><a href="https://www.bestbuy.ca/">Best Buy Canada</a></li>
-            <li><a href="https://www.savageinteractive.com/">Savage Interactive</a></li>
+            <li><a href="https://apps.apple.com/ca/app/procreate-pocket/id916366645">Apple Store Canada</a></li>
+            <li><a href=https://procreate.com/>Best Buy Canada</a></li>
+            <li><a href="https://procreate.com/">Savage Interactive</a></li>
         </ul>
     </section>
 
